@@ -17,6 +17,8 @@ const resources = {
   },
 };
 
+export const ALLOWED_LANGUAGES = Object.keys(resources);
+
 i18n.use(initReactI18next).init({
   resources,
   fallbackLng: 'en',
