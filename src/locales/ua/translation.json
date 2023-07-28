@@ -1,0 +1,17 @@
+{
+  "selectLabel": "Оберіть мову",
+  "english": "Англійська",
+  "ukrainian": "Українська",
+  "french": "Французська",
+
+  "digits": "Форматування дробових цифр",
+  "output": "Вихід",
+
+  "date": {
+    "standard": "Сьогодні {{value, datetime}}",
+    "time": "Поточний час - {{value, datetime(hour: numeric; minute: numeric; second: numeric)}}",
+    "header": "Дата і час"
+  },
+
+  "measurements": "Одиниці вимірювання"
+}

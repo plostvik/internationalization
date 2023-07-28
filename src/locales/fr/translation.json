@@ -1,0 +1,17 @@
+{
+  "selectLabel": "Choisir la langue",
+  "english": "Anglais",
+  "ukrainian": "Ukrainien",
+  "french": "Français",
+
+  "digits": "Formateur de chiffres de fraction",
+  "output": "Sortir",
+
+  "date": {
+    "standard": "Nous sommes le {{value, datetime}}",
+    "time": "Heure actuelle - {{value, datetime(hour: numeric; minute: numeric; second: numeric)}}",
+    "header": "Date et l'heure"
+  },
+
+  "measurements": "Unités de mesure"
+}

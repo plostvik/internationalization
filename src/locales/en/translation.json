@@ -1,0 +1,21 @@
+{
+  "selectLabel": "Choose language",
+  "english": "English",
+  "ukrainian": "Ukrainian",
+  "french": "French",
+  "digits": "Fraction Digits Formatter",
+  "output": "Output",
+
+  "number": "{{value, number}}",
+
+  "date": {
+    "standard": "Today is {{value, datetime}}",
+    "full": "{{value, datetime(weekday: long;  month: long; year: numeric; day: 2-digit; hour: 2-digit; minute: 2-digit; second: 2-digit)}}",
+    "short": "{{value, datetime(weekday: short;  month: short; year: 2-digit; day: 2-digit; hour: numeric; minute: numeric; second: numeric)}}",
+    "time": "Current time is {{value, datetime(hour: numeric; minute: numeric; second: numeric)}}",
+    "header": "Date and Time"
+  },
+
+  "units": "{{value, units}}",
+  "measurements": "Units of Measurements"
+}
