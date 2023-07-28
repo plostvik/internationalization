@@ -21,8 +21,9 @@ You may also see any lint errors in the console.
 
 ## How to change locale
 
-Default locale is EN. If you want to change locale you need to choose an option from _"Choose language" _ dropdown.
+Default locale is **EN**. If you want to change locale you need to choose an option from _"Choose language"_ dropdown.
 
-**For example**
-http://localhost:3000/ua for UA locale
-http://localhost:3000/fr for FR locale
+## Examples
+
+- http://localhost:3000/ua for **UA** locale
+- http://localhost:3000/fr for **FR** locale
